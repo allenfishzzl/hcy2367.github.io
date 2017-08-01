@@ -1,4 +1,4 @@
-# 个人博客 - 少年不知愁滋味
+
 
 采用[jekyll](http://jekyllrb.com/)搭建的博客，用[markdown](http://daringfireball.net/projects/markdown/)和[liquid](https://github.com/Shopify/liquid/wiki)写的文章，给人一种写文章就像写代码的感觉。
 
